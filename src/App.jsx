@@ -4,7 +4,8 @@ import Text from "./components/Text";
 import Hairstyles from "./components/Hairstyles";
 import Services from "./components/Services";
 import Footer from "./components/Footer";
-import praveen from "./images/praveen.png"
+import praveen from "./images/praveen.jpeg"
+import Customer from "./components/Customer";
 
 // "https://image.lexica.art/full_jpg/19f280a2-2b97-4be2-b782-1fd5c70b84f4"
 
@@ -28,6 +29,8 @@ function App() {
         <Hairstyles/>
 
         <Services />
+        <strong className="text-2xl">Happy Customer</strong>
+        <Customer />
       </main>
       </div>
 
