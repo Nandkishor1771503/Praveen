@@ -81,7 +81,7 @@ const Footer = () => {
             </div>
           </div>
             <hr className="text-white"/>
-              <h3>Make your call 👇</h3>
+              <h3>Make your call & book your service👇</h3>
   
           {/* Copyright */}
           <div className="text-center mt-8 text-gray-500">
